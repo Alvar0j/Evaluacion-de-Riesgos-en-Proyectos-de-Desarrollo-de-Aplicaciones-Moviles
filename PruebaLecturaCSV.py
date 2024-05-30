@@ -14,11 +14,11 @@ def read_csv(file_path):
     print(eu_data)
 
 # Uso de la función
-file_path = '/Users/pruebaprueba/Desktop/P_Data_Extract_From_World_Development_Indicators/ba49add3-1ef6-4d95-9e32-21d877473b59_Data.csv'
+file_path = '/Users/pruebaprueba/Documents/ETSII/Tercero/Segundo Cuatrimestre/IA/Proyecto IA/Evaluacion-de-Riesgos-en-Proyectos-de-Desarrollo-de-Aplicaciones-Moviles/Porcentaje Individuos Con Acceso a Internet/ba49add3-1ef6-4d95-9e32-21d877473b59_Data.csv'
 read_csv(file_path)
 data = pd.read_csv(file_path)
 print(data)
 
 # Uso de la función
-file_path = '/Users/pruebaprueba/Desktop/P_Data_Extract_From_World_Development_Indicators/ba49add3-1ef6-4d95-9e32-21d877473b59_Data.csv'
+file_path = '/Users/pruebaprueba/Documents/ETSII/Tercero/Segundo Cuatrimestre/IA/Proyecto IA/Evaluacion-de-Riesgos-en-Proyectos-de-Desarrollo-de-Aplicaciones-Moviles/Porcentaje Individuos Con Acceso a Internet/ba49add3-1ef6-4d95-9e32-21d877473b59_Data.csv'
 read_csv(file_path)
